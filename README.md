@@ -13,7 +13,7 @@ Windows
     $ numberlookup.exe -input C:\path\to\number\list
 ```
 ## PHP Script Usage
-```bash
+```php
    #Ensure numberLookup is in your $PATH
    #Supply numbers to lookup via STDIN
    echo "01234567891" | numberLookup
